@@ -53,18 +53,18 @@ A [Lighthouse Labs](https://www.lighthouselabs.ca/) project by [Justin Lam](http
 
 ## Dependencies
 ### Client-side
-  "@faker-js/faker": "^6.0.0-alpha.7",
-  "axios": "^0.25.0",
-  "bootstrap": "^5.1.3",
-  "chart.js": "^3.7.1",
-  "lodash": "^4.17.21",
-  "react": "^17.0.2",
-  "react-bootstrap": "^2.1.2",
-  "react-calendar": "^3.7.0",
-  "react-chartjs-2": "^4.0.1",
-  "react-circular-progressbar": "^2.0.4",
-  "react-dom": "^17.0.2",
-  "react-router-dom": "^6.2.1",
-  "react-scripts": "5.0.0",
-  "sass": "^1.49.7",
-  "web-vitals": "^2.1.4"
+    "@faker-js/faker": "^6.0.0-alpha.7",
+    "axios": "^0.25.0",
+    "bootstrap": "^5.1.3",
+    "chart.js": "^3.7.1",
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.1.2",
+    "react-calendar": "^3.7.0",
+    "react-chartjs-2": "^4.0.1",
+    "react-circular-progressbar": "^2.0.4",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "sass": "^1.49.7",
+    "web-vitals": "^2.1.4"
