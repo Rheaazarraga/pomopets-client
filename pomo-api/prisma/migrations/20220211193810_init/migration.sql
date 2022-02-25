@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE "timers" ALTER COLUMN "updated_at" SET DEFAULT CURRENT_TIMESTAMP;
