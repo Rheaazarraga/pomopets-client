@@ -14,3 +14,8 @@
 [build.environment]
   REACT_APP_API_BASE_URL = "https://pomopets.herokuapp.com/"
   REACT_APP_WEBSOCKET_URL = "wss://pomopets.herokuapp.com/"
+
+[[redirects]]
+  from = "/logout"
+  to = "/"
+  status = 200
