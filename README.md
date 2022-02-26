@@ -14,6 +14,7 @@ A [Lighthouse Labs](https://www.lighthouselabs.ca/) project by [Justin Lam](http
 - ⭐ Users can choose their area of focus for the timer
 - ⭐ Statistics page tracks number of Pomodoro sessions completed by area of focus
 - ⭐ Dark Mode
+- ⭐ Deployed on Netlify and Heroku
 
 ## Future Features
 
