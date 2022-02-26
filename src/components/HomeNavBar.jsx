@@ -43,7 +43,7 @@ export default function HomeNavBar(props) {
                   Edit Info
                 </Link>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="/">Logout</NavDropdown.Item>
+                <NavDropdown.Item to="/logout">Logout</NavDropdown.Item>
               </NavDropdown>
             ) : null}
             <div className="button-div">
