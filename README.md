@@ -5,6 +5,7 @@
 A [Lighthouse Labs](https://www.lighthouselabs.ca/) project by [Justin Lam](https://github.com/justinklam), [Rhea Azarraga](https://github.com/Rheaazarraga), and [Arushi Katyal](https://github.com/katy-arushi).
 
 ## **Access the deployed app [here](https://pomopets.netlify.app/)!**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67ad81cc-40c5-4e28-9b80-d7b56fe77794/deploy-status)](https://app.netlify.com/sites/pomopets/deploys)
 
 ## Features
 
