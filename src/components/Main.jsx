@@ -1,5 +1,6 @@
 import React from "react";
 import egg from "../assets/eggs/egg.png";
+import { Link } from 'react-router-dom';
 
 export default function Main() {
   return (
@@ -22,8 +23,9 @@ export default function Main() {
 								longer break to recharge and refresh your mind!{' '}
 							</p>
 						</h3>
-					</div>
-					<a href='https://pomopets.netlify.app/timers'>
+          </div>
+          
+					<Link to='/timers'>
 						<img
 							src={egg}
 							alt='egg-on-homepage'
@@ -31,7 +33,7 @@ export default function Main() {
 							width='400px'
 							height='400px'
 						/>
-					</a>
+					</Link>
 				</div>
 			</div>
 		</>
