@@ -19,7 +19,3 @@
   from = "/logout"
   to = "/"
   status = 200
-
-
-  from = "/timers"
-  to = "/timers"
